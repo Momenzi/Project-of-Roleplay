@@ -10,7 +10,7 @@ GAMEMODE BUILD 230
 - Added new maps [ Spawn, Nargila Bar, Opstina, Hotel, Radovi Casino, FBI, Zlatara(ext+int) ]
 - Added hookah system
 - Fixed command (/mp3)
-- Ejected jobs ( Adira dostavljac, Raznosac novina, Vatrogasac, Zaprasivac )
+- Ejected jobs ( Adria dostavljac, Raznosac novina, Vatrogasac, Zaprasivac )
 - Added new admin color ( Crvena )
 - Added new commands ( /lideri, admini, gamemasteri )
 - Fixed bug with command dialog ( /tunecar )
